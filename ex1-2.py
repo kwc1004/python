@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-print("test")
+print("hello world")
